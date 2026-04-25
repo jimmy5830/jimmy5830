@@ -2,7 +2,7 @@
 
  **언리얼 엔진5**. ""유니티 엔진"" 와 **게임 엔진**, ""컴퓨터 그래픽스"", "DirectX12""에 관심이 많습니다. 
 
-**Gameplay Ability System**과 **Lyra Sample Project**를 기반으로 공부하고 있습니다.
+**Gameplay Ability System**과 **Directx12**를 기반으로 공부하고 있습니다.
 
 Email: [naviflower1222@gmail.com](mailto:naviflower1222@gmail.com)
 ## **Education**
