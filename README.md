@@ -4,7 +4,7 @@
 
 **Gameplay Ability System**과 **Directx12**를 기반으로 공부하고 있습니다.
 
-Email: [naviflower1222@gmail.com](mailto:naviflower1222@gmail.com)
+Email: [jimmy5830@khu.ac.kr](mailto:jimmy5830@khu.ac.kr)
 ## **Education**
 
 **경희대학교 (2020.03 ~ 졸업예정)**
