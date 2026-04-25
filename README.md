@@ -12,7 +12,7 @@ Email: [naviflower1222@gmail.com](mailto:naviflower1222@gmail.com)
 - 소프트웨어융합학과 게임콘텐츠트랙 (복수전공)
 ## **Skills**
 
-### Mathematics
+### Applied Mathematics
 
 - **해석학 1, 2 (Analysis), 수치해석 1 (Numerical Analysis), 복소해석학 1 (Complex Analysis)**
 - **미분기하학 1 (Differential Geometry), 미분방정식 1 (Differential Equations), 미분적분학 1, 2 (Calculus)**
