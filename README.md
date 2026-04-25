@@ -41,6 +41,7 @@ Email: [jimmy5830@khu.ac.kr](mailto:jimmy5830@khu.ac.kr)
 ## 📊 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmy5830&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jimmy5830)](https://solved.ac/jimmy5830/)
 
 ## 요즘 하는 것
 
