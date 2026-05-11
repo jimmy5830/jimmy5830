@@ -40,10 +40,10 @@ Email: [jimmy5830@khu.ac.kr](mailto:jimmy5830@khu.ac.kr)
   - **사용 기술**: React (Front-end), FastAPI (Back-end)
   - **역할**: 프론트엔드 메인 팀장 / 지분: 40%
 
-- **StopThePop** (2025 ~ )
+- **StopThePop** (2025.09 ~ 2026.02 )
   - **설명**: 3DGS 기반 논문 'StopThePoP'의 Per-tile Sorting 및 local sorting을 구현 (소프트웨어캡스톤디자인 프로젝트)
 
-- **LLM 기반 초기화와 역강화 학습을 결합한 진화형 BT 생성 프레임워크** (2025 ~ )
+- **LLM 기반 초기화와 역강화 학습을 결합한 진화형 BT 생성 프레임워크** (2025.09 ~ 2025.12 )
   - **설명**: 대형 언어 모델(LLM)과 강화 학습을 응용한 Behavior Tree 생성 프레임워크
   - **역할**: Unreal BT 생성 프레임워크 개발 / 지분: 20%
 
@@ -55,6 +55,7 @@ Email: [jimmy5830@khu.ac.kr](mailto:jimmy5830@khu.ac.kr)
 - **Summoners of Wardens** (2025.04 ~ 현재)
   - **설명**: Unreal Engine 기반 Tower Defense 게임
   - **역할**: 시스템 파이프라인 및 게임 엔진 프로그래머 / 지분: 20%
+  - **수상 실적**: 국제게임페스티벌 [2025 G-star] 참가 
 
 - **고박사 어드벤처** (2024.02 ~ 2024.03)
   - **설명**: Unity 2D 플랫포머 게임
@@ -64,11 +65,11 @@ Email: [jimmy5830@khu.ac.kr](mailto:jimmy5830@khu.ac.kr)
   - **설명**: Unity 2D 카드 뒤집기 게임
   - **역할**: 1인 개발 / 지분: 100%
 
-- **GEB_story** (2023)
+- **GEB_story** (2023.09 ~ 2023.12)
   - **설명**: Unreal Engine 기반 유아용 테마 어드벤처 게임 (게임엔진기초 수업 포트폴리오)
   - **역할**: NPC 및 게임 플레이 프로그래머 / 지분: 30%
 
-- **FPS ML agents** (2023)
+- **FPS ML agents** (2023.09 ~ 2023.12)
   - **설명**: Unity ML-Agent 프레임워크를 활용한 FPS 환경 내 인공지능 행동 강화학습 (게임콘텐츠캡스톤디자인)
   - **역할**: Unity 프론트엔드 및 FPS 환경 구현 / 지분: 50%
 
@@ -83,8 +84,10 @@ Email: [jimmy5830@khu.ac.kr](mailto:jimmy5830@khu.ac.kr)
 
 ### **주요 사용 기술**
 - **C++**
+- **C#**
 - **Python**
 - **Unreal Engine 5**
+- **Unity Engine**
 
 ### **사용 경험 있음**
 - **언어**: Java, JavaScript, C#, TypeScript
