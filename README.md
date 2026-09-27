@@ -30,6 +30,11 @@ Email: [jimmy5830@khu.ac.kr](mailto:jimmy5830@khu.ac.kr)
 
 ## 💻 **Projects**
 
+- **Multi Entity Optimizer - wanted (MEOW)** (2026)
+  - **설명**: 브라우저에서 대규모 엔티티 시뮬레이션 시 발생하는 CPU 병목의 원인을 실시간으로 진단하고, 최적의 충돌 알고리즘·메모리 레이아웃 조합을 추천하는 서비스 (경희대학교 해커톤 'Khuthon' 우수상)
+  - **사용 기술**: React.js (Web front-end) c++ web compiler (native benchmark) chatgpt (local llm model)
+  - **역할**: C++ 코어 개발, 다량 엔티티 시뮬레이션 게임 개발 / 지분: 20%
+    
 - **이어지기** (2026)
   - **설명**: 전통문화 3D 체험 서비스 (경희대학교 해커톤 'Khuthon' 우수상)
   - **사용 기술**: Three.js (Front-end), Node.js (Back-end)
